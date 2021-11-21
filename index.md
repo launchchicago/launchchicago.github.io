@@ -5,16 +5,11 @@
 layout: default
 ---
 
-# Soon
+# Our Mission
 
-A simple *coming soon* page built for [Jekyll](https://jekyllrb.com/docs/).
+Launch as many students and adult learners that are underrepresented or live in under-resourced communities into the STEM workforce, while removing barriers to ensure that everyone has an equal opportunity.
+<br>
+<br>
+<br>
 
-## What's in it?
-
-Soon is a single static page with a full-screen image, nothing more. Remember those *under construction* sites? The point is to show a quick message or a temporary contact page to your visitors. Use this template for a few hours to a few days while you are building your site in the background. Since the page comes with a Jekyll environment, you can host it for free on GitHub.
-
-***
-
-## Get started
-
-[README](https://github.com/YJPL/soon/blob/master/README.md) Get [Soon](https://github.com/YJPL/soon/).
+## <center>Website Coming Soon!</center>
